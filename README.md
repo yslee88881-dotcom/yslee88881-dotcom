@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+나는 한국외대 컴퓨터공학부야. 
 <!--
 **yslee88881-dotcom/yslee88881-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
